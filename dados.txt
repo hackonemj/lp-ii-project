@@ -1,0 +1,9 @@
+3:5
+Tarzan:0:3:1:3
+Simba:1:4:2:2
+Sabichao:2:6:1:1
+Bananas:10:1
+Cana:3:1
+Alimento de Dieta:5:2
+Um Bongo:7:2
+Proteina Vegetal:4:3

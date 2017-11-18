@@ -1,0 +1,14 @@
+﻿CLASSIFICAÇÃO FINAL DA PROVA
+# 1 - Simba - Leão - 6
+# 2 - Tarzan - Humano - 8
+# 3 - Sabichao - Mocho - 11
+
+
+TABELA DE PRÉMIOS
+Simba
+[Bananas (10), Cana (3)]
+Tarzan
+[Alimento de Dieta (5), Um Bongo (7)]
+Sabichao
+[Proteina Vegetal (4)]
+Manuel
